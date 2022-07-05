@@ -1,0 +1,5 @@
+export const FIRST_FIELD_MAX_LENGTH = 19;
+export const FIRST_FIELD_REQUIRED_LENGTH = 8;
+
+export const SECOND_FIELD_MAX_LENGTH = 2;
+export const SECOND_FIELD_REQUIRED_LENGTH = 1;
